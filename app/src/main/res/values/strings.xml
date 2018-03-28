@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="bottom_navigation">Bottom Navigation</string>
+    <string name="text_favorites">Favourites</string>
+    <string name="text_schedules">Schedules</string>
+    <string name="text_music">Music</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_map">Map</string>
+    <string name="text_home">Home</string>
+
+    <string name="fragmenta">Fragment A</string>
+    <string name="fragmentb">Fragment B</string>
+</resources>
